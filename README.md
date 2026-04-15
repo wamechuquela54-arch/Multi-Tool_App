@@ -12,7 +12,7 @@ A simple Python CLI application with multiple features.
 
 ## How to Run
 Run the Python file in your terminal:
-
+Make sure you have python in your machine
 python multi_tool_app.py
 
 ## Notes
