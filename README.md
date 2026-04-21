@@ -8,6 +8,7 @@ A simple Python CLI application with multiple features.
 - Calculator
 - Word Counter
 - History System
+- To Do List
 - File Persistence (save/load)
 
 ## How to Run
